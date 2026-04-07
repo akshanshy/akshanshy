@@ -8,7 +8,7 @@
 - 🧠 Solved **530+ DSA problems (500+ on LeetCode)**
 - 🔥 Strong in **Data Structures, Algorithms & Backend Development**
 - 🌱 Currently improving **System Design & Backend Scalability**
-- 🎯 Goal: Crack top product-based companies
+- 🎯 Goal: working on good product which can impact the society in positive way**
 
 ---
 
